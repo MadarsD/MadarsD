@@ -1,10 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Madars Davids!
+### Hi there, I am Madars <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
 
-:tada: Software Developer with a background in Biology and Biotechnology related work fields.
+🎉 Software Developer with a background in Biology and Biotechnology related work fields.
 
-:tada: Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature!
+🎉 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature ⛳ 🚣 ⛺!
 
-:tada: My skill-set: 
+🎉 **My Tech Stack: 
+
 JAVA, 
 Spring Boot (Maven&Gradle), 
 Unit Testing, 
@@ -12,7 +13,9 @@ TDD,
 GIT, 
 HTML&CSS, Angular, JavaScript, TypeScript& NodeJS basics
 
+**Tools:
 
+https://img.shields.io/badge/LinkedIn-blue
 Contact me on https://www.linkedin.com/in/madars-davids/ or sen me and e-mail: E-mail: madars.davids7@gmail.com
 
 <!--
