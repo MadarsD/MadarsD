@@ -13,9 +13,7 @@ TDD,
 GIT, 
 HTML&CSS, Angular, JavaScript, TypeScript& NodeJS basics
 
-**Tools:
 
-https://img.shields.io/badge/LinkedIn-blue
 Contact me on https://www.linkedin.com/in/madars-davids/ or sen me and e-mail: E-mail: madars.davids7@gmail.com
 
 <!--
