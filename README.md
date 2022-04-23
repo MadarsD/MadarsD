@@ -2,11 +2,11 @@
 
 🎉 Software Developer with a background in Biology and Biotechnology related work fields.
 
-🎉 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature ⛳ 🚣 ⛺!
+🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature ⛳ 🚣 ⛺!
 
 🎉 My Tech Stack: 
 
-JAVA, 
+JAVA /n, 
 Spring Boot (Maven&Gradle), 
 Unit Testing, 
 TDD, 
