@@ -6,7 +6,7 @@
 
 🎉 My Tech Stack: 
 
-JAVA /n, 
+JAVA \n, 
 Spring Boot (Maven&Gradle), 
 Unit Testing, 
 TDD, 
