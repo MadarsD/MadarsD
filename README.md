@@ -4,9 +4,9 @@
 
 🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature ⛳ 🚣 ⛺!
 
-🎉 My Tech Stack: 
+📖 My Tech Stack: 
 
-JAVA \n, 
+JAVA, 
 Spring Boot (Maven&Gradle), 
 Unit Testing, 
 TDD, 
