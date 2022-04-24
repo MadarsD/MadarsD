@@ -2,7 +2,7 @@
 
 🎉 Software Developer with a background in Biology and Biotechnology related work fields.
 
-🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature ⛳ 🚣 ⛺!
+🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature!
 
 📖 My Tech Stack: 
 
@@ -14,7 +14,7 @@ GIT,
 HTML&CSS, Angular, JavaScript, TypeScript& NodeJS basics
 
 
-Contact me on https://www.linkedin.com/in/madars-davids/ or send me and e-mail: E-mail: madars.davids7@gmail.com
+Contact me on https://www.linkedin.com/in/madars-davids/ or send me an e-mail: madars.davids7@gmail.com
 
 <!--
 **MadarsD/MadarsD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
