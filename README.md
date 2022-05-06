@@ -4,7 +4,7 @@ My name is Madars Dāvids and I am a software developer with a background in bio
 
 🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature!
 
-📖 ##Technologies & Tools: 
+## 📖 Technologies & Tools: 
 
 JAVA, 
 Spring Boot (Maven&Gradle), 
@@ -12,7 +12,9 @@ Unit Testing,
 TDD, 
 GIT, 
 HTML&CSS, Angular, JavaScript, TypeScript& NodeJS basics
-
+Frameworks and libraries: 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <!-- Icons -->
 
