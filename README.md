@@ -1,10 +1,10 @@
 ### Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
 
-My name is Madars Dāvids and I am a software developer with a background in Biology and Biotechnology related work fields. I live in Latvia and you can find me on [![LinkedIn][1.1]][1], or send me an e-mail .
+My name is Madars Dāvids and I am a software developer with a background in biotechnology related field. I live in Latvia and you can find me on [![LinkedIn][1.1]][1], or send me an e-mail.
 
 🍊 Learning new skills, solving problems and shaping skill-set I already have is great, but to cool down my brain I love to spend time in nature!
 
-📖 My Tech Stack: 
+📖 ##Technologies & Tools: 
 
 JAVA, 
 Spring Boot (Maven&Gradle), 
@@ -13,8 +13,6 @@ TDD,
 GIT, 
 HTML&CSS, Angular, JavaScript, TypeScript& NodeJS basics
 
-
-Contact me on https://www.linkedin.com/in/madars-davids/ or send me an e-mail: madars.davids7@gmail.com
 
 <!-- Icons -->
 
