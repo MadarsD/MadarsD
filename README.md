@@ -38,6 +38,7 @@ IDEs:
 ## 🌱 I'm currently learning
 
 -PostgreSQL
+
 -Shaping JAVA and Spring boot skills
 
 <!-- Icons -->
