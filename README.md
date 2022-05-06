@@ -33,14 +33,12 @@ IDEs:
 
 ## 🔭 I'm currently working on
 
-- []
+- [https://github.com/MadarsD/flightPlanner]
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+-PostgreSQL
+-Shaping JAVA and Spring boot skills
 
 <!-- Icons -->
 
