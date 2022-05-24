@@ -39,7 +39,7 @@ IDEs:
 
 -PostgreSQL <br />
 -Angular <br />
--Shaping JAVA and Spring boot skills
+-Shaping Spring boot skills
 
 <!-- Icons -->
 
